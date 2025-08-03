@@ -1,0 +1,24 @@
+=== [/ouster/points] PointCloud2 Fields ===
+Name: x, Offset: 0, datatype: 7, count: 1
+Name: y, Offset: 4, datatype: 7, count: 1
+Name: z, Offset: 8, datatype: 7, count: 1
+Name: intensity, Offset: 16, datatype: 7, count: 1
+Name: t, Offset: 20, datatype: 6, count: 1
+Name: reflectivity, Offset: 24, datatype: 4, count: 1
+Name: ring, Offset: 26, datatype: 4, count: 1
+Name: ambient, Offset: 28, datatype: 4, count: 1
+Name: range, Offset: 32, datatype: 6, count: 1
+
+=== [/ouster/points2] PointCloud2 Fields ===
+Name: x, Offset: 0, datatype: 7, count: 1
+Name: y, Offset: 4, datatype: 7, count: 1
+Name: z, Offset: 8, datatype: 7, count: 1
+Name: intensity, Offset: 16, datatype: 7, count: 1
+Name: t, Offset: 20, datatype: 6, count: 1
+Name: reflectivity, Offset: 24, datatype: 4, count: 1
+Name: ring, Offset: 26, datatype: 4, count: 1
+Name: ambient, Offset: 28, datatype: 4, count: 1
+Name: range, Offset: 32, datatype: 6, count: 1
+
+# 공통 물리량
+x, y, z, intensity, ring, return
